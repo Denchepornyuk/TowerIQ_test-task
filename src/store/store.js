@@ -16,7 +16,7 @@ const initialState = {
   users: [],
 };
 
-const reducer = (state, action) => {
+const userReducer = (state, action) => {
   switch (action.type) {
     case SET_USERS:
       return {
@@ -28,6 +28,6 @@ const reducer = (state, action) => {
   }
 };
 
-const store = createStore(reducer, initialState);
+const userStore = createStore(userReducer, initialState);
 
-export default store;
+export default userStore;

@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import { setUsers, getUsers } from '../store/store';
+import { getUsers, setUsers } from '../store/store';
 
 import UsersPage from './UsersPage';
 

@@ -1,9 +1,10 @@
 import React from 'react';
-import Users from './UsersPage/index';
+import UsersPage from './UsersPage/index';
+import './style.scss';
 
 const App = () => (
   <div className="App">
-    <Users />
+    <UsersPage />
   </div>
 );
 
