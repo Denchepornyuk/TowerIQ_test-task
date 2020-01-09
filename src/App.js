@@ -1,8 +1,9 @@
 import React from 'react';
+import Users from './UsersPage/index';
 
 const App = () => (
   <div className="App">
-    <h1>People table</h1>
+    <Users />
   </div>
 );
 
