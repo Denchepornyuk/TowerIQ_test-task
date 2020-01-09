@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TowerIQ_test-task/static/css/main.c6d77491.chunk.css",
+    "main.js": "/TowerIQ_test-task/static/js/main.47a03f10.chunk.js",
+    "main.js.map": "/TowerIQ_test-task/static/js/main.47a03f10.chunk.js.map",
+    "runtime~main.js": "/TowerIQ_test-task/static/js/runtime~main.d936c127.js",
+    "runtime~main.js.map": "/TowerIQ_test-task/static/js/runtime~main.d936c127.js.map",
+    "static/js/2.0e37aec9.chunk.js": "/TowerIQ_test-task/static/js/2.0e37aec9.chunk.js",
+    "static/js/2.0e37aec9.chunk.js.map": "/TowerIQ_test-task/static/js/2.0e37aec9.chunk.js.map",
+    "index.html": "/TowerIQ_test-task/index.html",
+    "precache-manifest.f8dc6b0210212fcd24ca0b44f17e5fad.js": "/TowerIQ_test-task/precache-manifest.f8dc6b0210212fcd24ca0b44f17e5fad.js",
+    "service-worker.js": "/TowerIQ_test-task/service-worker.js",
+    "static/css/main.c6d77491.chunk.css.map": "/TowerIQ_test-task/static/css/main.c6d77491.chunk.css.map"
+  }
+}
