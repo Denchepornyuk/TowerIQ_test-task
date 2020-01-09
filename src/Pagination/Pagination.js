@@ -21,7 +21,7 @@ const Pagination = ({ total, currentPage, perPage, changePage }) => {
   };
 
   return (
-    <div className="table__pagination">
+    <div className="pagination">
       <button
         className="pagination__button"
         type="button"

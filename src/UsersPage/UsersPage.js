@@ -19,6 +19,7 @@ const UsersPage = ({ users, setUsers }) => {
           <button
             type="button"
             onClick={getUser}
+            className="load__button"
           >
             Load Users
           </button>
