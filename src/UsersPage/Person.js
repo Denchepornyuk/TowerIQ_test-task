@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+import PropsTypes from 'prop-types';
 
 const Person = ({ user }) => (
   <tr>
@@ -9,6 +9,6 @@ const Person = ({ user }) => (
   </tr>
 );
 
-Person.propTypes = { user: PropTypes.objectOf.isRequired };
+Person.propTypes = { user: PropsTypes.objectOf.isRequired };
 
 export default Person;
